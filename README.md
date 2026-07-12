@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/stefbarrantes/leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/stefbarrantes/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/stefbarrantes/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/stefbarrantes/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/stefbarrantes/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/stefbarrantes/leetcode-practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/stefbarrantes/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
@@ -69,4 +70,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/stefbarrantes/leetcode-practice/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/stefbarrantes/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/stefbarrantes/leetcode-practice/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
