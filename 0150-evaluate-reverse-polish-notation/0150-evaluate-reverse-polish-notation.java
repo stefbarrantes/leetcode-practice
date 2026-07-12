@@ -7,9 +7,7 @@ class Solution {
         for (int i = 0; i < tokens.length; i++) {
             switch(tokens[i]) {
                 case "+":
-                    der = values.pop();
-                    izq = values.pop();
-                    values.push(izq + der);
+                    values.push(values.pop() + values.pop());
                     break;
                 case "-":
                     der = values.pop();
@@ -17,9 +15,7 @@ class Solution {
                     values.push(izq - der);
                     break;
                 case "*":  
-                    der = values.pop();
-                    izq = values.pop();
-                    values.push(izq * der);
+                    values.push(values.pop() * values.pop());
                     break;
                 case "/":
                     der = values.pop();
