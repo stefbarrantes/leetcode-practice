@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/stefbarrantes/leetcode-practice/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/stefbarrantes/leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/stefbarrantes/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/stefbarrantes/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/stefbarrantes/leetcode-practice/tree/master/0238-product-of-array-except-self) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/stefbarrantes/leetcode-practice/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/stefbarrantes/leetcode-practice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/stefbarrantes/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/stefbarrantes/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/stefbarrantes/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/stefbarrantes/leetcode-practice/tree/master/0238-product-of-array-except-self) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/stefbarrantes/leetcode-practice/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
