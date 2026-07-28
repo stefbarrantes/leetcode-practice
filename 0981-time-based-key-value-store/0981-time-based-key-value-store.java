@@ -28,7 +28,7 @@ class TimeMap {
         return output;
     }
 
-    private class Pair {
+    private static class Pair {
         String value;
         int timestamp;
 
