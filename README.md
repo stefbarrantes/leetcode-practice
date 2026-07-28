@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/stefbarrantes/leetcode-practice/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/stefbarrantes/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/stefbarrantes/leetcode-practice/tree/master/0347-top-k-frequent-elements) |
+| [0981-time-based-key-value-store](https://github.com/stefbarrantes/leetcode-practice/tree/master/0981-time-based-key-value-store) |
 ## Sorting
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/stefbarrantes/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/stefbarrantes/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/stefbarrantes/leetcode-practice/tree/master/0125-valid-palindrome) |
+| [0981-time-based-key-value-store](https://github.com/stefbarrantes/leetcode-practice/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/stefbarrantes/leetcode-practice/tree/master/0155-min-stack) |
+| [0981-time-based-key-value-store](https://github.com/stefbarrantes/leetcode-practice/tree/master/0981-time-based-key-value-store) |
 ## Two Pointers
 |  |
 | ------- |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/stefbarrantes/leetcode-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/stefbarrantes/leetcode-practice/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/stefbarrantes/leetcode-practice/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/stefbarrantes/leetcode-practice/tree/master/0981-time-based-key-value-store) |
 ## Greedy
 |  |
 | ------- |
