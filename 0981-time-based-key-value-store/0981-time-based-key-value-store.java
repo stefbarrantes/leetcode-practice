@@ -17,7 +17,7 @@ class TimeMap {
 
         while(l <= r) {
             int m = l + (r - l) / 2;
-            if(values.get(m).getTimestap() <= timestamp){
+            if(values.get(m).getTimestamp() <= timestamp){
                 output = values.get(m).getValue();
                 l = m + 1;
             } else {
@@ -38,11 +38,11 @@ class TimeMap {
         }
 
         public String getValue(){
-            return this.value;
+            return value;
         }
 
-        public int getTimestap(){
-            return this.timestamp;
+        public int getTimestamp(){
+            return timestamp;
         }
     }
 }
